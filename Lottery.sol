@@ -24,7 +24,7 @@ contract Lottery {
 
 	function purchase() external {
 		require(isTicketOwner[msg.sender]==false, "You already have a ticket."); // checks if address already owns a ticket
-        dai.transferFrom(msg.sender, address(this), ticketPrice);
+        	dai.transferFrom(msg.sender, address(this), ticketPrice);
 		isTicketOwner[msg.sender] = true; // logs that address now owns a ticket
 		numberOfTickets = numberOfTickets + 1; // increments number of tickets sold
 		ticketNumber[(numberOfTickets)] = msg.sender; // asigns ticket number to address
