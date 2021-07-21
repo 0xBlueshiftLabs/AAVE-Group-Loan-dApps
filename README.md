@@ -5,7 +5,7 @@
 
 
 
-# ChainShot-AAVE-Group-Loans
+# AAVE-Group-Loans
 
 
 Smart contracts that allow for a group of users to pool funds together to serve as collateral for individual AAVE lending pool loans.
