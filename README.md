@@ -58,7 +58,7 @@ Project Link: [https://github.com/Elisik/ChainShot-AAVE-Group-Loans](https://git
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-This project was created as part of the AAVE course offered by [Chainshot](https://www.chainshot.com/)
+* [Chainshot](https://www.chainshot.com/)
 
 
 
