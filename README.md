@@ -51,7 +51,7 @@ Twitter - [@TraderTDF](https://twitter.com/TraderTDF)
 
 LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
 
-Project Link: [https://github.com/Elisik/ChainShot-AAVE-Group-Loans](https://github.com/Elisik/ChainShot-AAVE-Group-Loans)
+Project Link: [https://github.com/0xBlueshiftLabs/ChainShot-AAVE-Group-Loans](https://github.com/0xBlueshiftLabs/ChainShot-AAVE-Group-Loans)
 
 
 
