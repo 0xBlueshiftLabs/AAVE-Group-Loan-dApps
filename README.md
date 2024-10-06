@@ -47,11 +47,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@TraderTDF](https://twitter.com/TraderTDF)
+Twitter - [@0xElisik](https://twitter.com/0xElisik)
 
 LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
 
-Project Link: [https://github.com/0xBlueshiftLabs/ChainShot-AAVE-Group-Loans](https://github.com/0xBlueshiftLabs/ChainShot-AAVE-Group-Loans)
+Project Link: [https://github.com/0xBlueshiftLabs/AAVE-Group-Loan-dApps](https://github.com/0xBlueshiftLabs/AAVE-Group-Loan-dApps)
 
 
 
