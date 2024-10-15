@@ -47,8 +47,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@0xElisik](https://twitter.com/0xElisik)
-
 LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
 
 Project Link: [https://github.com/0xBlueshiftLabs/AAVE-Group-Loan-dApps](https://github.com/0xBlueshiftLabs/AAVE-Group-Loan-dApps)
